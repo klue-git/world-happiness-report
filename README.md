@@ -41,8 +41,12 @@ Null Hypothesis: The Pandemic years have not significantly changed the happiness
 
 Primary Data Source [World Happiness Report](https://worldhappiness.report/data/) (partnership of Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the WHR’s Editorial Board)
 Sourced Data [D1 Dataset](https://drive.google.com/drive/folders/1j8HFrStrVNhXCKYuiCb0LziBlLAfDkwE?usp=drive_link) & [D2 Datasets](https://drive.google.com/drive/folders/1ssMcAMEfqI3pBdEJ4ACXeTtVefGp9j8k?usp=drive_link)
-[WHR Project Brief & Data Overview](https://docs.google.com/document/d/1jiYSzOjA3XERfC0jPJZiF1g3zkiXy2s9TRC5hLbQAso/edit) 
-[Tableau Storyboard](https://public.tableau.com/app/profile/kristin.l.pken/viz/WorldHappinessReport-CoronaPandemicImpact/Beginning?publish=yes) 
+Secondary Data Sources [List of covid-19 lockdown dates by country](https://www.kaggle.com/datasets/jcyzag/covid19-lockdown-dates-by-country)
+[Nasdaq World Bank data](https://data.nasdaq.com/databases/WB)
+
+Find Data specifications under [WHR Project Brief & Data Overview](https://docs.google.com/document/d/1jiYSzOjA3XERfC0jPJZiF1g3zkiXy2s9TRC5hLbQAso/edit) 
+Find Visualisations in [Tableau Storyboard](https://public.tableau.com/app/profile/kristin.l.pken/viz/WorldHappinessReport-CoronaPandemicImpact/Beginning?publish=yes) 
+Find Project as part of my [Project Portfolio](https://docs.google.com/presentation/d/1qvX03-6EEZWSrtt9ApW6LT-Xnqhv1leqAYnXwFR9AVQ/edit#slide=id.g2c358f50eee_0_130)
 
 **Project Tasks & Deliverables**
 
