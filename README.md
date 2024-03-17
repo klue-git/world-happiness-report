@@ -40,7 +40,7 @@ Null Hypothesis: The Pandemic years have not significantly changed the happiness
 **Data & Tools**
 
 Primary Data Source [World Happiness Report](https://worldhappiness.report/data/) (partnership of Gallup, the Oxford Wellbeing Research Centre, the UN Sustainable Development Solutions Network, and the WHR’s Editorial Board)
-Sourced Data [D1 Dataset(https://drive.google.com/drive/folders/1j8HFrStrVNhXCKYuiCb0LziBlLAfDkwE?usp=drive_link) & [D2 Datasets](https://drive.google.com/drive/folders/1ssMcAMEfqI3pBdEJ4ACXeTtVefGp9j8k?usp=drive_link)
+Sourced Data [D1 Dataset](https://drive.google.com/drive/folders/1j8HFrStrVNhXCKYuiCb0LziBlLAfDkwE?usp=drive_link) & [D2 Datasets](https://drive.google.com/drive/folders/1ssMcAMEfqI3pBdEJ4ACXeTtVefGp9j8k?usp=drive_link)
 [WHR Project Brief & Data Overview](https://docs.google.com/document/d/1jiYSzOjA3XERfC0jPJZiF1g3zkiXy2s9TRC5hLbQAso/edit) 
 [Tableau Storyboard](https://public.tableau.com/app/profile/kristin.l.pken/viz/WorldHappinessReport-CoronaPandemicImpact/Beginning?publish=yes) 
 
